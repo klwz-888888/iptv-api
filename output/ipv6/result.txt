@@ -1,16 +1,58 @@
 🕘️更新时间,#genre#
-2026-05-29 00:07:04,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+2026-07-31 17:46:36,http://migu.xiao.de5.net:1234/608807420
 
 📺央视频道,#genre#
+CCTV-1,http://migu.xiao.de5.net:1234/608807420
+CCTV-2,http://migu.xiao.de5.net:1234/631780532
+CCTV-3,http://migu.xiao.de5.net:1234/624878271
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-4,http://migu.xiao.de5.net:1234/631780421
+CCTV-5,http://migu.xiao.de5.net:1234/641886683
+CCTV-5+,http://migu.xiao.de5.net:1234/641886773
+CCTV-6,http://migu.xiao.de5.net:1234/624878396
+CCTV-7,http://migu.xiao.de5.net:1234/673168121
+CCTV-8,http://migu.xiao.de5.net:1234/624878356
+CCTV-9,http://migu.xiao.de5.net:1234/673168140
+CCTV-10,http://migu.xiao.de5.net:1234/624878405
+CCTV-11,http://migu.xiao.de5.net:1234/667987558
+CCTV-12,http://migu.xiao.de5.net:1234/673168185
+CCTV-13,http://migu.xiao.de5.net:1234/608807423
+CCTV-14,http://migu.xiao.de5.net:1234/624878440
+CCTV-15,http://migu.xiao.de5.net:1234/673168223
+CCTV-17,http://migu.xiao.de5.net:1234/673168256
+CETV-1,http://migu.xiao.de5.net:1234/923287154
+CETV-2,http://migu.xiao.de5.net:1234/923287211
+CETV-4,http://migu.xiao.de5.net:1234/923287339
 
 📡卫视频道,#genre#
+广东卫视,http://migu.xiao.de5.net:1234/608831231
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
+北京卫视,http://migu.xiao.de5.net:1234/630287636
+湖北卫视,http://migu.xiao.de5.net:1234/947472496
+黑龙江卫视,http://migu.xiao.de5.net:1234/738906901
+重庆卫视,http://migu.xiao.de5.net:1234/738910914
+东方卫视,http://migu.xiao.de5.net:1234/651632648
+东南卫视,http://migu.xiao.de5.net:1234/849116810
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi.php
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-3.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+海南卫视,http://migu.xiao.de5.net:1234/947472502
+河北卫视,http://migu.xiao.de5.net:1234/962042070
+河南卫视,http://migu.xiao.de5.net:1234/790187291
+吉林卫视,http://migu.xiao.de5.net:1234/947472500
+江苏卫视,http://migu.xiao.de5.net:1234/623899368
+江西卫视,http://migu.xiao.de5.net:1234/783847495
+辽宁卫视,http://migu.xiao.de5.net:1234/630291707
+宁夏卫视,http://migu.xiao.de5.net:1234/738910535
+青海卫视,http://migu.xiao.de5.net:1234/947472506
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+陕西卫视,http://migu.xiao.de5.net:1234/738910838
+三沙卫视,http://migu.xiao.de5.net:1234/961023778
 
 广东频道,#genre#
+广东珠江,http://migu.xiao.de5.net:1234/639731952
+广东卫视,http://migu.xiao.de5.net:1234/608831231
+大湾区卫视,http://migu.xiao.de5.net:1234/608917627
